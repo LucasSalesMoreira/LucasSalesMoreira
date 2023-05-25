@@ -1,5 +1,5 @@
 ### Hello there, wellcome to my profile 👋
-- 🔭 I’m currently working on PHP & Node
+- 🔭 I’m currently working on Kotlin & Java
 - 🌱 I’m currently learning React.js
 <div>  
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=LucasSalesMoreira&show_icons=true&&theme=nightowl&include_all_commits=true&count_private=true"/>
